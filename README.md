@@ -1,4 +1,4 @@
-# Game-
+# Game
 Python Game.
 
 **I prefer to use Pycharm IDE**
